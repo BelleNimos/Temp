@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Canvas
+  - Camera 3
+  - Camera 2
+  - Scene 3 Canvas
+  - Camera 1
+  - Player 2
+  - P1 Canvas
+  - P2 Camera
+  - P1 Camera
+  - P2 Canvas
+  - Player 1
+  - CanvasCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Customer
+  - Car
+  - Player
+  - Cone
+  - ConeUsed
+  - Exit
+  - Entrance
+  - Wall
+  - Utilizer
+  - Board
+  - Slider
+  - Road
+  - Dollar
+  - Beam
+  - TargetCar
+  - Seat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
